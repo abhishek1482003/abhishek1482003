@@ -4,9 +4,9 @@
 <p align="center">
   <a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/abhishek-singh-63a715258/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:abhishek1482003@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://leetcode.com/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="[https://leetcode.com/yourprofile](https://leetcode.com/u/abhirishal/)" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://codeforces.com/profile/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://www.codechef.com/users/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="[https://www.codechef.com/users/yourprofile](https://www.codechef.com/users/abhirishal0)" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 </p>
 
 ---
